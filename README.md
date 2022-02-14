@@ -1,5 +1,7 @@
 # Lacework JupyterLab Demos
-A basic demo of Lacework CLI commands organized to allow demonstration of CLI capabilities without need to recall command syntax from memory, or copy/paste of commands. Jupyter Lab allows execution of commands within shell with one-handed press of _command-enter._ This enables you to focus on discussion.
+A basic demo of Lacework CLI commands organized to allow demonstration of CLI capabilities without need to recall command syntax from memory, or copy/paste of commands.
+
+(Jupyter Lab allows execution of commands within shell with one-handed press of _command-enter._ This enables you to focus on discussion)
 
 A second demo allows demonstration of LQL Queries and Policies using the Lacework CLI
 
